@@ -1,4 +1,4 @@
-# testonline
+# Hệ thống Kiểm tra trực tuyến - testonline
 Hệ thống kiểm tra trực tuyến (Dành cho các trường học, trường nghề...)
 # Tính năng:
 - Dashboard: Bảng điều khiển với nhiều số liệu thống kê và tiện ích tuyệt vời
@@ -24,10 +24,14 @@ Hệ thống kiểm tra trực tuyến (Dành cho các trường học, trườn
 - Quản lý ngân hàng câu hỏi 
 - Quản lý các hướng dẫn đối với các bài thi, kiểm tra ...
 # Học sinh (Sinh viên, người dùng tham gia với vai trò người dự thi, kiểm tra...)
+- Thực hiện các bài kiểm tra (theo từng bộ đề kiểm tra...)
+- Trao đổi thông tin nội bộ
+- Quản lý các tài liệu...
 # Quản trị hệ thống
 - Quản lý các mẫu chứng nhận
 - Quản lý các tài khoản quản trị hệ thống
 - Cho phép đặt lại mật khẩu của các tài khoản sử dụng
 - Sao lưu, phân quyền hệ thống và quản lý các phiên bản
-
+- Cấu hình hệ thống
+- Cấu hình các phương thức thanh toán, Email...
 
