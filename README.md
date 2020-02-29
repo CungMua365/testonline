@@ -34,6 +34,6 @@ Hệ thống kiểm tra trực tuyến (Dành cho các trường học, trườn
 - Sao lưu, phân quyền hệ thống và quản lý các phiên bản
 - Cấu hình hệ thống
 - Cấu hình các phương thức thanh toán, Email...
-# Liên hệ để được dùng trải nghiệm: 
+# Liên hệ để được trải nghiệm phần mềm: 
 Email: huynhnv88@gmail.com
 SĐT: 0905 272 869
