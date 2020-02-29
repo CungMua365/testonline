@@ -1,9 +1,9 @@
 # Hệ thống Kiểm tra trực tuyến - testonline
 Hệ thống kiểm tra trực tuyến (Dành cho các trường học, trường nghề...)
-# Tính năng:
+# Tính năng chung:
 - Dashboard: Bảng điều khiển với nhiều số liệu thống kê và tiện ích tuyệt vời
 - Biểu đồ thống kê: Bao gồm nhiều biểu đồ thống kê cho các loại tài khoản, người dùng, thanh toán ... và tải xuống với nhiều định dạng (PDF, Jpeg, PNG, SVG vector)
-- Quản lý trao đổi nội bộ: Cho phép người dùng của hệ thống trao đổi nội bộ các thông tin với nhau
+- Trao đổi nội bộ: Cho phép người dùng của hệ thống trao đổi nội bộ các thông tin với nhau
 # Admin, Giáo viên, Giảng viên
 - Quản lý các lớp học, học phần (khối A, B, C...) và môn học
 - Thông tin học sinh (sinh viên): Quản lý và theo dõi tất cả thông tin của học sinh (sinh viên...)
